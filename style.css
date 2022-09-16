@@ -1,0 +1,35 @@
+body{
+    margin: 20px;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-class{
+    width: 170px;
+    height: 170px;
+    
+    
+}
+
+.card{
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+    width: 350px;
+    margin: 180px 450px 0 550px;
+    /* margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 180px;  */
+    text-align: center;
+    border-bottom:8px solid #d8cefe;
+    background: #ddebf8;
+    color: #2b2839;
+}
+
+.italic{ 
+    font-style: italic;
+}
+
+.border-blue{
+    border: 1px dotted blue;
+}
+
